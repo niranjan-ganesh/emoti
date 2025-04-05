@@ -1,0 +1,10 @@
+pandas
+ipywidgets
+brainflow
+notebook
+matplotlib
+jsonschema 
+pymongo
+fastapi
+uvicorn
+pymongo
