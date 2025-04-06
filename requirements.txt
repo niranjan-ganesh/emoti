@@ -7,4 +7,10 @@ jsonschema
 pymongo
 fastapi
 uvicorn
-pymongo
+neurokit2
+numpy
+numbers
+pywt
+sklearn
+scipy
+copy
